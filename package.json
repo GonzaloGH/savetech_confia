@@ -1,0 +1,24 @@
+{
+  "name": "savetech_confia",
+  "version": "1.0.0",
+  "description": "Servicio web para recursos humanos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaloGH/savetech_confia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaloGH/savetech_confia/issues"
+  },
+  "homepage": "https://github.com/GonzaloGH/savetech_confia#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
