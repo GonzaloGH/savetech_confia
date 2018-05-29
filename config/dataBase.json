@@ -1,0 +1,9 @@
+{
+    "database":
+    {
+        "host": "localhost",
+        "user": "savetech_admConf",
+        "passport": "JIL7CV;zTvK5",
+        "database": "savetech_confia"
+    }
+}
